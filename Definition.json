@@ -2,7 +2,7 @@
     "manifestVersion": 5,
     "id": "DW5.WhittierSawMill",
     "name": "DWFiv3's Saw Mill",
-    "version": "0.0.1",
+    "version": "0.1.1",
     "updateUrl": "https://raw.githubusercontent.com/DWFiv3/DW5SawMill/main/update/update.json",
     "requires": [
         {

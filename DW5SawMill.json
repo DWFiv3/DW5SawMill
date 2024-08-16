@@ -1,1 +1,1069 @@
-{}
+{
+  "tracks": {
+    "nodes": {
+      "NDW5SMSO_vfvd": {
+        "position": {
+          "x": 12633.6113,
+          "y": 559.6,
+          "z": 4798.52344
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 128.79158,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMSO_twuf": {
+        "position": {
+          "x": 12589.9238,
+          "y": 559.6,
+          "z": 4849.296
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 323.307434,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMSO_c23f": {
+        "position": {
+          "x": 12502.7061,
+          "y": 559.6,
+          "z": 4966.161
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 323.307434,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "N08rr": {
+        "position": {
+          "x": 12496.3193,
+          "y": 559.6007,
+          "z": 4961.371
+        },
+        "rotation": {
+          "x": -0.00100851443,
+          "y": 323.307434,
+          "z": 4.95046948E-10
+        },
+        "flipSwitchStand": false
+      },
+      "N0pxx": {
+        "position": {
+          "x": 12506.293,
+          "y": 559.6,
+          "z": 4968.80273
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 323.307434,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "N99cq": {
+        "position": {
+          "x": 12460.5664,
+          "y": 559.6,
+          "z": 4950.96533
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 323.8703,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "Ncz4h": {
+        "position": {
+          "x": 12501.9141,
+          "y": 559.6,
+          "z": 4894.18066
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 323.8703,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMC1_qqq4": {
+        "position": {
+          "x": 12555.0918,
+          "y": 559.6,
+          "z": 4850.46729
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 119.851341,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMC1_r9xy": {
+        "position": {
+          "x": 12498.4609,
+          "y": 559.6,
+          "z": 4891.48633
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 323.8703,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMC1_zuiv": {
+        "position": {
+          "x": 12457.01,
+          "y": 559.6,
+          "z": 4948.26465
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 323.8703,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_d84n": {
+        "position": {
+          "x": 12402.3672,
+          "y": 561.25,
+          "z": 4973.32568
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 328.382874,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_pk50": {
+        "position": {
+          "x": 12349.7666,
+          "y": 561.25,
+          "z": 5132.065
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 347.835724,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_3p6b": {
+        "position": {
+          "x": 12459.13,
+          "y": 561.25,
+          "z": 4897.13867
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 319.546265,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_zx3g": {
+        "position": {
+          "x": 12406.4639,
+          "y": 561.25,
+          "z": 4975.72266
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 328.382874,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_dapn": {
+        "position": {
+          "x": 12354.7842,
+          "y": 561.25,
+          "z": 5133.144
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 347.835724,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "N2ddm": {
+        "position": {
+          "x": 12410.5674,
+          "y": 561.25,
+          "z": 4978.021
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 328.382874,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "exzcj6": {
+        "position": {
+          "x": 12359.4434,
+          "y": 561.25,
+          "z": 5134.197
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 347.835724,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_zw6y": {
+        "position": {
+          "x": 12346.7988,
+          "y": 561.25,
+          "z": 5192.849
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 347.835724,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_btp2": {
+        "position": {
+          "x": 12341.0859,
+          "y": 561.25,
+          "z": 5196.684
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 347.835724,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_66ja": {
+        "position": {
+          "x": 12345.5518,
+          "y": 561.25,
+          "z": 5151.61572
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 347.835724,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_2o5c": {
+        "position": {
+          "x": 12335.0146,
+          "y": 561.25,
+          "z": 5200.49268
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 347.835724,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_1pcg": {
+        "position": {
+          "x": 12313.2764,
+          "y": 561.25,
+          "z": 5269.57861
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 337.7763,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_2g9c": {
+        "position": {
+          "x": 12326.1895,
+          "y": 561.25,
+          "z": 5241.78271
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 154.117355,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_8jiw": {
+        "position": {
+          "x": 12110.2227,
+          "y": 561.5722,
+          "z": 5523.08545
+        },
+        "rotation": {
+          "x": 359.166534,
+          "y": 322.527222,
+          "z": 359.773041
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_y5vs": {
+        "position": {
+          "x": 12083.2061,
+          "y": 562.1468,
+          "z": 5547.453
+        },
+        "rotation": {
+          "x": 359.08252,
+          "y": 301.2789,
+          "z": 359.93222
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_tyua": {
+        "position": {
+          "x": 12108.1943,
+          "y": 561.667664,
+          "z": 5531.116
+        },
+        "rotation": {
+          "x": 359.08252,
+          "y": 310.27887,
+          "z": 359.93222
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_tu6i": {
+        "position": {
+          "x": 12152.9219,
+          "y": 560.9393,
+          "z": 5485.04
+        },
+        "rotation": {
+          "x": 0.00252352771,
+          "y": 318.4787,
+          "z": 0.00219527213
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMR1_n4f9": {
+        "position": {
+          "x": 12179.7754,
+          "y": 560.9393,
+          "z": 5454.711
+        },
+        "rotation": {
+          "x": 0.00252352771,
+          "y": 318.5787,
+          "z": 0.00219525886
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMINT_d6yv": {
+        "position": {
+          "x": 12926.8047,
+          "y": 561.25,
+          "z": 4552.67529
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 315.072754,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMINT_rmmt": {
+        "position": {
+          "x": 12267.2939,
+          "y": 560.9393,
+          "z": 5351.63135
+        },
+        "rotation": {
+          "x": -0.00302258716,
+          "y": 142.115509,
+          "z": 0.0272082929
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SMINT_y6tz": {
+        "position": {
+          "x": 12221.1807,
+          "y": 560.9393,
+          "z": 5407.587
+        },
+        "rotation": {
+          "x": -0.000645679655,
+          "y": 139.301758,
+          "z": 0.0335746743
+        },
+        "flipSwitchStand": false
+      }
+    },
+    "segments": {
+      "Sq42": null,
+      "DW5DTS_neoe": null,     
+      "SDW5SMSO_krc9": {
+        "style": "Standard",
+        "trackClass": "Industrial",
+        "startId": "Nw7j",
+        "endId": "NDW5SMSO_vfvd",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMSO_lbw1": {
+        "style": "Standard",
+        "trackClass": "Industrial",
+        "startId": "NDW5SMSO_vfvd",
+        "endId": "Ndk9",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMSO_zud0": {
+        "style": "Standard",
+        "trackClass": "Industrial",
+        "startId": "NDW5SMSO_vfvd",
+        "endId": "NDW5SMSO_twuf",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMSO_1qvp": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMSO_twuf",
+        "endId": "NDW5SMSO_c23f",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "Sxqd": null,
+      "SDW5SMC1_wehs": {
+        "style": "Standard",
+        "trackClass": "Industrial",
+        "startId": "Ncz4h",
+        "endId": "NDW5SMC1_qqq4",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMC1_ftk9": {
+        "style": "Standard",
+        "trackClass": "Industrial",
+        "startId": "NDW5SMC1_qqq4",
+        "endId": "Nw7j",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMC1_xqv6": {
+        "style": "Standard",
+        "trackClass": "Industrial",
+        "startId": "NDW5SMC1_qqq4",
+        "endId": "NDW5SMC1_r9xy",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMC1_ogtv": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMC1_r9xy",
+        "endId": "NDW5SMC1_zuiv",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_rpzz": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_d84n",
+        "endId": "NDW5SMR1_pk50",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_gcl8": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "N26f7",
+        "endId": "NDW5SMR1_3p6b",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_w72n": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_3p6b",
+        "endId": "NDW5SMR1_d84n",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_5a3j": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_3p6b",
+        "endId": "NDW5SMR1_zx3g",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_8bfo": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_zx3g",
+        "endId": "NDW5SMR1_dapn",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_wq4p": {
+        "style": "Bridge",
+        "trackClass": "Branch",
+        "startId": "exzcj6",
+        "endId": "NDW5SMR1_zw6y",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_qy4q": {
+        "style": "Bridge",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_dapn",
+        "endId": "NDW5SMR1_btp2",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_bd0i": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_pk50",
+        "endId": "NDW5SMR1_66ja",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_g2vh": {
+        "style": "Bridge",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_66ja",
+        "endId": "NDW5SMR1_2o5c",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_4cp1": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_2o5c",
+        "endId": "NDW5SMR1_1pcg",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_21k3": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_1pcg",
+        "endId": "NDW5SMR1_2g9c",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "S62v": null,
+      "SDW5SMR1_bun0": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nxm9",
+        "endId": "NDW5SMR1_8jiw",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_cowo": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_8jiw",
+        "endId": "NDW5SMR1_y5vs",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_n5ha": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_y5vs",
+        "endId": "Nj9v",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_gu1n": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_y5vs",
+        "endId": "NDW5SMR1_tyua",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_3jey": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_tyua",
+        "endId": "NDW5SMR1_tu6i",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_2ay2": {
+        "style": "Bridge",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_tu6i",
+        "endId": "NDW5SMR1_n4f9",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_snvd": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_zw6y",
+        "endId": "NDW5SMR1_2g9c",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMR1_1swj": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_btp2",
+        "endId": "NDW5SMR1_2g9c",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "Saat": null,
+      "SDW5SMINT_9vfw": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "N1be",
+        "endId": "NDW5SMINT_d76j",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMINT_of25": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMINT_d76j",
+        "endId": "N05x",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMINT_8j7p": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMINT_d76j",
+        "endId": "NDW5SMINT_d6yv",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "RearEntry"
+      },
+      "SDW5SMINT_o2rx": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMINT_d6yv",
+        "endId": "N72a",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "RearEntry"
+      },
+      "SDW5SMINT_o0ao": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMINT_rmmt",
+        "endId": "NDW5SMR1_1pcg",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMINT_b86d": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SMR1_n4f9",
+        "endId": "NDW5SMINT_y6tz",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SMINT_x00o": {
+        "style": "Tunnel",
+        "trackClass": "Branch",
+        "startId": "NDW5SMINT_y6tz",
+        "endId": "NDW5SMINT_rmmt",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      }
+    },
+    "spans": {
+      "Pt0j": {
+        "upper": {
+          "segmentId": "Si11q",
+          "distance": 0.3744812,
+          "end": "End"
+        },
+        "lower": {
+          "segmentId": "Sm8f2",
+          "distance": 30,
+          "end": "End"
+        }
+      },
+      "R2": {
+        "upper": {
+          "segmentId": "SDW5SMR1_qy4q",
+          "distance": 0.0,
+          "end": "End"
+        },
+        "lower": {
+          "segmentId": "SDW5SMR1_5a3j",
+          "distance": 0.0,
+          "end": "Start"
+        }
+      },
+      "R3": {
+        "upper": {
+          "segmentId": "SDW5SMR1_g2vh",
+          "distance": 0,
+          "end": "End"
+        },
+        "lower": {
+          "segmentId": "SDW5SMR1_w72n",
+          "distance": 0,
+          "end": "Start"
+        }
+      },
+      "R4": {
+        "upper": {
+          "segmentId": "SDW5SMR1_wq4p",
+          "distance": 0,
+          "end": "End"
+        },
+        "lower": {
+          "segmentId": "SDW5SMR1_wq4p",
+          "distance": 0,
+          "end": "Start"
+        }
+      },
+      "C2n3": {
+        "upper": {
+          "segmentId": "SDW5SMC1_ogtv",
+          "distance": 0,
+          "end": "End"
+        },
+        "lower": {
+          "segmentId": "SDW5SMC1_ogtv",
+          "distance": 0,
+          "end": "Start"
+        }
+      },
+      "SOn3": {
+        "upper": {
+          "segmentId": "SDW5SMSO_1qvp",
+          "distance": 0,
+          "end": "End"
+        },
+        "lower": {
+          "segmentId": "SDW5SMSO_1qvp",
+          "distance": 0,
+          "end": "Start"
+        }
+      }
+    }
+  },
+  "areas": {
+    "whittier": {
+      "industries": {
+        "whittier-sawmill": {
+          "components": {
+            "": {
+              "inputTermsPerDay": {
+                "logs": 180.0
+              },
+              "outputTermsPerDay": {
+                "lumber-dimensional": 2332000.0,
+                "gondola-woodchips": 600000.0
+              }
+            },
+            "logs": {
+              "name": "Whittier Saw Mill R1/R2/R3",
+              "trackSpans": [
+                {
+                  "$add": "R2"
+                },
+                {
+                  "$add": "R3"
+                },
+                {
+                  "$add": "R4"
+                }
+              ],
+              "maxStorage": 180.0
+            },
+            "c2": {
+              "name": "Whittier Saw Mill C2/C3",
+              "trackSpans": [
+                {
+                  "$add": "C2n3"
+                }
+              ],
+              "maxStorage": 600000.0,
+              "carTransferRate": 600000.0
+            },
+            "so12": {
+              "name": "Whittier Saw Mill SO1/SO2/SO3",
+              "trackSpans": [
+                {
+                  "$add": "SOn3"
+                }
+              ],
+              "maxStorage": 2332000.0,
+              "carTransferRate": 2332000.0
+            }
+          }
+        }
+      }
+    },
+    "connelly": {
+      "industries": {
+        "connelly0": {
+          "components": {
+            "l1": {
+              "carTypeFilter": "FL",
+              "loadId": "logs",
+              "storageChangeRate": 108,
+              "maxStorage": 108,
+              "carTransferRate": 216
+            },
+            "p1": {
+              "carTypeFilter": "FB",
+              "loadId": "pulpwood",
+              "storageChangeRate": 1500000,
+              "maxStorage": 1500000,
+              "carTransferRate": 900000
+            },
+            "l2": {
+              "carTypeFilter": "FL",
+              "loadId": "logs",
+              "storageChangeRate": 180,
+              "maxStorage": 210,
+              "carTransferRate": 360
+            },
+            "p2": {
+              "carTypeFilter": "FB",
+              "loadId": "pulpwood",
+              "storageChangeRate": 1500000,
+              "maxStorage": 1500000,
+              "carTransferRate": 900000
+            },
+            "l3": {
+              "carTypeFilter": "FL",
+              "loadId": "logs",
+              "storageChangeRate": 108,
+              "maxStorage": 108,
+              "carTransferRate": 216
+            },
+            "p34": {
+              "carTypeFilter": "FB",
+              "loadId": "pulpwood",
+              "storageChangeRate": 6000000,
+              "maxStorage": 6000000,
+              "carTransferRate": 900000
+            }
+          }
+        }
+      }
+    }
+  },
+  "splineys": {
+    "Telegraph_Poles": {
+      "handler": "AlinasMapMod.TelegraphPoleMover",
+      "polesToMove": [
+        567,
+        607,
+        543,
+        545,
+        587,
+        585
+      ],
+      "poleMovement": [
+        [
+          -1,
+          2.2,
+          -6
+        ],
+        [
+          0,
+          1.2,
+          4
+        ],
+        [
+          0,
+          4,
+          0
+        ],
+        [
+          0,
+          4,
+          0
+        ],
+        [
+          0,
+          4,
+          6
+        ],
+        [
+          0,
+          4,
+          0
+        ]
+      ]
+    },
+    "Saw Mill Entry Bridge": {
+      "points": [
+        {
+          "position": {
+            "x": 12152.92,
+            "y": 560.74,
+            "z": 5485.04
+          },
+          "rotation": {
+            "x": 0,
+            "y": 318.48,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 12179.79,
+            "y": 560.74,
+            "z": 5454.71
+          },
+          "rotation": {
+            "x": 0,
+            "y": 318.58,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent",
+      "handler": "StrangeCustoms.AutoTrestleBuilder"
+    },
+    "Saw Mill R1 Bridge": {
+      "points": [
+        {
+          "position": {
+            "x": 12346.8,
+            "y": 560.95,
+            "z": 5192.85
+          },
+          "rotation": {
+            "x": 0,
+            "y": 347.84,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 12359.44,
+            "y": 560.95,
+            "z": 5134.2
+          },
+          "rotation": {
+            "x": 0,
+            "y": 347.84,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent",
+      "handler": "StrangeCustoms.AutoTrestleBuilder"
+    },
+    "Saw Mill R2 Bridge": {
+      "points": [
+        {
+          "position": {
+            "x": 12341.09,
+            "y": 560.95,
+            "z": 5196.68
+          },
+          "rotation": {
+            "x": 0,
+            "y": 347.84,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 12354.74,
+            "y": 560.95,
+            "z": 5133.14
+          },
+          "rotation": {
+            "x": 0,
+            "y": 347.84,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent",
+      "handler": "StrangeCustoms.AutoTrestleBuilder"
+    },
+    "Saw Mill R3 Bridge": {
+      "points": [
+        {
+          "position": {
+            "x": 12335.01,
+            "y": 560.95,
+            "z": 5200.49
+          },
+          "rotation": {
+            "x": 0,
+            "y": 347.84,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 12345.55,
+            "y": 560.95,
+            "z": 5151.62
+          },
+          "rotation": {
+            "x": 0,
+            "y": 347.84,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent",
+      "handler": "StrangeCustoms.AutoTrestleBuilder"
+    }
+  }
+}
