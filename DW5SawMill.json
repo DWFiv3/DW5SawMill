@@ -403,11 +403,115 @@
           "z": 0.0335746743
         },
         "flipSwitchStand": false
+      },
+      "NDW5SM_buai": {
+        "position": {
+          "x": 12694.3066,
+          "y": 559.6,
+          "z": 4749.26367
+        },
+        "rotation": {
+          "x": -9.49196E-07,
+          "y": 126.406487,
+          "z": 4.13358475E-06
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SM_n6x7": {
+        "position": {
+          "x": 12669.333,
+          "y": 559.6,
+          "z": 4772.853
+        },
+        "rotation": {
+          "x": 359.9,
+          "y": 140.406509,
+          "z": 4.11546171E-06
+        },
+        "flipSwitchStand": true
+      },
+      "Nijv": {
+        "position": {
+          "x": 12667.21,
+          "y": 559.6,
+          "z": 4769.25
+        },
+        "rotation": {
+          "x": -9.49194657E-07,
+          "y": 126.406487,
+          "z": 4.13358475E-06
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SM_er08": {
+        "position": {
+          "x": 12644.5264,
+          "y": 559.100037,
+          "z": 4804.272
+        },
+        "rotation": {
+          "x": 359.0,
+          "y": 142.506409,
+          "z": 4.136096E-06
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SM_1p7b": {
+        "position": {
+          "x": 12600.7139,
+          "y": 558.6,
+          "z": 4857.57275
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 323.307434,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SM_fl4b": {
+        "position": {
+          "x": 12513.4111,
+          "y": 558.6,
+          "z": 4974.22363
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 323.307434,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SM_3dlx": {
+        "position": {
+          "x": 12609.0273,
+          "y": 558.6,
+          "z": 4863.97266
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 323.307434,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5SM_c45u": {
+        "position": {
+          "x": 12521.9629,
+          "y": 558.6,
+          "z": 4980.80371
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 323.307434,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
       }
     },
     "segments": {
       "Sq42": null,
-      "DW5DTS_neoe": null,     
+      "DW5DTS_neoe": null,
       "SDW5SMSO_krc9": {
         "style": "Standard",
         "trackClass": "Industrial",
@@ -569,7 +673,7 @@
         "endId": "NDW5SMR1_1pcg",
         "priority": 0,
         "speedLimit": 0,
-        "groupId": ""
+        "groupId": "RearEntry"
       },
       "SDW5SMR1_21k3": {
         "style": "Standard",
@@ -578,7 +682,7 @@
         "endId": "NDW5SMR1_2g9c",
         "priority": 0,
         "speedLimit": 0,
-        "groupId": ""
+        "groupId": "RearEntry"
       },
       "S62v": null,
       "SDW5SMR1_bun0": {
@@ -615,7 +719,7 @@
         "endId": "NDW5SMR1_tyua",
         "priority": 0,
         "speedLimit": 0,
-        "groupId": ""
+        "groupId": "RearEntry"
       },
       "SDW5SMR1_3jey": {
         "style": "Standard",
@@ -624,7 +728,7 @@
         "endId": "NDW5SMR1_tu6i",
         "priority": 0,
         "speedLimit": 0,
-        "groupId": ""
+        "groupId": "RearEntry"
       },
       "SDW5SMR1_2ay2": {
         "style": "Bridge",
@@ -633,7 +737,7 @@
         "endId": "NDW5SMR1_n4f9",
         "priority": 0,
         "speedLimit": 0,
-        "groupId": ""
+        "groupId": "RearEntry"
       },
       "SDW5SMR1_snvd": {
         "style": "Standard",
@@ -642,7 +746,7 @@
         "endId": "NDW5SMR1_2g9c",
         "priority": 0,
         "speedLimit": 0,
-        "groupId": ""
+        "groupId": "RearEntry"
       },
       "SDW5SMR1_1swj": {
         "style": "Standard",
@@ -651,7 +755,7 @@
         "endId": "NDW5SMR1_2g9c",
         "priority": 0,
         "speedLimit": 0,
-        "groupId": ""
+        "groupId": "RearEntry"
       },
       "Saat": null,
       "SDW5SMINT_9vfw": {
@@ -697,7 +801,7 @@
         "endId": "NDW5SMR1_1pcg",
         "priority": 0,
         "speedLimit": 0,
-        "groupId": ""
+        "groupId": "RearEntry"
       },
       "SDW5SMINT_b86d": {
         "style": "Standard",
@@ -706,13 +810,86 @@
         "endId": "NDW5SMINT_y6tz",
         "priority": 0,
         "speedLimit": 0,
-        "groupId": ""
+        "groupId": "RearEntry"
       },
       "SDW5SMINT_x00o": {
         "style": "Tunnel",
         "trackClass": "Branch",
         "startId": "NDW5SMINT_y6tz",
         "endId": "NDW5SMINT_rmmt",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "RearEntry"
+      },
+      "Sj6n": null,
+      "SDW5SM_f242": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nijv",
+        "endId": "NDW5SM_buai",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SM_dv8u": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SM_buai",
+        "endId": "N72a",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SM_anuh": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SM_buai",
+        "endId": "NDW5SM_n6x7",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SM_9kks": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SM_n6x7",
+        "endId": "NDW5SM_er08",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SM_ottb": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SM_er08",
+        "endId": "NDW5SM_1p7b",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SM_jdci": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SM_1p7b",
+        "endId": "NDW5SM_fl4b",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SM_k7lg": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SM_er08",
+        "endId": "NDW5SM_3dlx",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5SM_4ci4": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5SM_3dlx",
+        "endId": "NDW5SM_c45u",
         "priority": 0,
         "speedLimit": 0,
         "groupId": ""
@@ -790,6 +967,30 @@
           "distance": 0,
           "end": "Start"
         }
+      },
+      "SOn4": {
+        "upper": {
+          "segmentId": "SDW5SM_jdci",
+          "distance": 0,
+          "end": "End"
+        },
+        "lower": {
+          "segmentId": "SDW5SM_jdci",
+          "distance": 0,
+          "end": "Start"
+        }
+      },
+      "SOn5": {
+        "upper": {
+          "segmentId": "SDW5SM_4ci4",
+          "distance": 0,
+          "end": "End"
+        },
+        "lower": {
+          "segmentId": "SDW5SM_4ci4",
+          "distance": 0,
+          "end": "Start"
+        }
       }
     }
   },
@@ -820,7 +1021,7 @@
                   "$add": "R4"
                 }
               ],
-              "maxStorage": 180.0
+              "maxStorage": 220.0
             },
             "c2": {
               "name": "Whittier Saw Mill C2/C3",
@@ -833,10 +1034,16 @@
               "carTransferRate": 600000.0
             },
             "so12": {
-              "name": "Whittier Saw Mill SO1/SO2/SO3",
+              "name": "Whittier Saw Mill SO1/SO2/SO3/S04/S05",
               "trackSpans": [
                 {
                   "$add": "SOn3"
+                },
+                {
+                  "$add": "SOn4"
+                },
+                {
+                  "$add": "SOn5"
                 }
               ],
               "maxStorage": 2332000.0,
@@ -970,7 +1177,8 @@
       ],
       "headStyle": "block",
       "tailStyle": "bent",
-      "handler": "StrangeCustoms.AutoTrestleBuilder"
+      "handler": "StrangeCustoms.AutoTrestleBuilder",
+      "groupId": "RearEntry"
     },
     "Saw Mill R1 Bridge": {
       "points": [

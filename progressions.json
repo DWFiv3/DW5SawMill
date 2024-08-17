@@ -1,0 +1,40 @@
+{
+  "mapFeatures": {
+    "DWFiv3SawMillLogRearEntry": {
+      "displayName": "DWFiv3's Saw Mill R1/R2/R3 Rear Entry",
+      "name": "DWFiv3SawMillLogRearEntry",
+      "description": "An optional entry to the saw mill for the easy unloading of logs directly into R1/R2/R3 Tracks.",
+      "defaultEnableInSandbox": false,
+      "trackGroupsAvailableOnUnlock": {
+        "RearEntry": true
+      },
+      "trackGroupsEnableOnUnlock": {
+        "RearEntry": true
+      }
+    }
+  },
+  "progressions": {
+    "ewh": {
+      "sections": {
+        "DWFiv3SawMillLogRearEntrySection": {
+          "displayName": "DWFiv3's Saw Mill R1/R2/R3 Rear Entry",
+          "description": "An optional entry to the saw mill for the easy unloading of logs directly into R1/R2/R3 Tracks",
+          "prerequisiteSections": {
+            "someOtherSection": true
+          },
+          "deliveryPhases": [
+            {
+              "cost": 1
+            }
+          ],
+          "enableFeaturesOnUnlock": {
+            "DWFiv3SawMillLogRearEntry": true
+          },
+          "enableFeaturesOnAvailable": {
+            "DWFiv3SawMillLogRearEntry": true
+          }
+        }
+      }
+    }
+  }
+}
