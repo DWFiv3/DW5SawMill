@@ -367,9 +367,9 @@
       },
       "NDW5SMINT_d6yv": {
         "position": {
-          "x": 12926.8047,
+          "x": 12924.69,
           "y": 561.25,
-          "z": 4552.67529
+          "z": 4550.553
         },
         "rotation": {
           "x": 0.0,
@@ -757,7 +757,6 @@
         "speedLimit": 0,
         "groupId": "RearEntry"
       },
-      "Saat": null,
       "SDW5SMINT_9vfw": {
         "style": "Standard",
         "trackClass": "Branch",
@@ -792,7 +791,7 @@
         "endId": "N72a",
         "priority": 0,
         "speedLimit": 0,
-        "groupId": "RearEntry"
+        "groupId": "sawconnect"
       },
       "SDW5SMINT_o0ao": {
         "style": "Standard",
@@ -821,7 +820,6 @@
         "speedLimit": 0,
         "groupId": "RearEntry"
       },
-      "Sj6n": null,
       "SDW5SM_f242": {
         "style": "Standard",
         "trackClass": "Branch",
@@ -831,7 +829,7 @@
         "speedLimit": 0,
         "groupId": ""
       },
-      "SDW5SM_dv8u": {
+      "Sj6n": {
         "style": "Standard",
         "trackClass": "Branch",
         "startId": "NDW5SM_buai",
@@ -893,6 +891,15 @@
         "priority": 0,
         "speedLimit": 0,
         "groupId": ""
+      },
+      "SDW5SM_m4iy": {
+        "style": "Standard",
+        "trackClass": "Mainline",
+        "startId": "NDW5SMINT_d6yv",
+        "endId": "N05x",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "sawconnect"
       }
     },
     "spans": {
@@ -1105,49 +1112,6 @@
     }
   },
   "splineys": {
-    "Telegraph_Poles": {
-      "handler": "AlinasMapMod.TelegraphPoleMover",
-      "polesToMove": [
-        567,
-        607,
-        543,
-        545,
-        587,
-        585
-      ],
-      "poleMovement": [
-        [
-          -1,
-          2.2,
-          -6
-        ],
-        [
-          0,
-          1.2,
-          4
-        ],
-        [
-          0,
-          4,
-          0
-        ],
-        [
-          0,
-          4,
-          0
-        ],
-        [
-          0,
-          4,
-          6
-        ],
-        [
-          0,
-          4,
-          0
-        ]
-      ]
-    },
     "Saw Mill Entry Bridge": {
       "points": [
         {
@@ -1272,6 +1236,23 @@
       "headStyle": "block",
       "tailStyle": "bent",
       "handler": "StrangeCustoms.AutoTrestleBuilder"
+    },
+    "DW5_Saw_Mill_Telegraph_Poles": {
+      "handler": "AlinasMapMod.TelegraphPoleMover",
+      "polesToMove": [
+        567, // Pole to left of R3
+        587, // Pole near Interchange Milestone
+        585, // Pole next interchange Milestone
+        543, // Pole to Left of Milestone 1
+        545 // Pole to right of Milestone 1
+      ],
+      "poleMovement": [
+        [-1, 2.2, -6],
+        [0, 4, 6],
+        [0, 4, 0],
+        [0, 4, 0],
+        [0, 4, 0]
+      ]
     }
   }
 }

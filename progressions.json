@@ -11,14 +11,26 @@
       "trackGroupsEnableOnUnlock": {
         "RearEntry": true
       }
+    },
+    "DWFiv3SawMillInterchangeInterconnection": {
+      "displayName": "Saw Mill Interchange Interconnection",
+      "name": "DWFiv3SawMillInterchangeInterconnection",
+      "description": "A track interconnection linking DWFiv3's Saw Mill to the main interchange. To use other Whittier yard mods, DO NOT enable this.",
+      "defaultEnableInSandbox": false,
+      "trackGroupsAvailableOnUnlock": {
+        "sawconnect": true
+      },
+      "trackGroupsEnableOnUnlock": {
+        "sawconnect": true
+      }
     }
   },
   "progressions": {
     "ewh": {
       "sections": {
         "DWFiv3SawMillLogRearEntrySection": {
-          "displayName": "DWFiv3's Saw Mill R1/R2/R3 Rear Entry",
-          "description": "An optional entry to the saw mill for the easy unloading of logs directly into R1/R2/R3 Tracks",
+          "displayName": "Whittier Saw Mill R1/R2/R3 Rear Entry",
+          "description": "An optional entry to DWFiv3's Saw Mill for the easy unloading of logs directly into R1/R2/R3 Tracks.",
           "prerequisiteSections": {
             "someOtherSection": true
           },
@@ -32,6 +44,24 @@
           },
           "enableFeaturesOnAvailable": {
             "DWFiv3SawMillLogRearEntry": true
+          }
+        },
+        "DWFiv3SawMillInterchangeSection": {
+          "displayName": "Saw Mill Interchange Interconnection",
+          "description": "A track interconnection linking DWFiv3's Saw Mill to the main interchange. To use other Whittier yard mods, DO NOT enable this.",
+          "prerequisiteSections": {
+            "somePrerequisiteSection": true
+          },
+          "deliveryPhases": [
+            {
+              "cost": 1
+            }
+          ],
+          "enableFeaturesOnUnlock": {
+            "DWFiv3SawMillInterchangeInterconnection": true
+          },
+          "enableFeaturesOnAvailable": {
+            "DWFiv3SawMillInterchangeInterconnection": true
           }
         }
       }

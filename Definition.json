@@ -2,7 +2,7 @@
     "manifestVersion": 5,
     "id": "DW5.WhittierSawMill",
     "name": "DWFiv3's Saw Mill",
-    "version": "0.1.2",
+    "version": "1.1.2",
     "updateUrl": "https://raw.githubusercontent.com/DWFiv3/DW5SawMill/main/update/update.json",
     "requires": [
         {
@@ -13,6 +13,10 @@
             "id": "AlinaNova21.AlinasMapMod",
             "notBefore": "1.4.24193.2211"
         }
+    ],
+    "conflictsWith": [
+        "Sneaky.WoodChipC2Extension",
+        "Sneaky-JSALAAMI.SawMillExtension"
     ],
     "mixintos": {
         "game-graph": [

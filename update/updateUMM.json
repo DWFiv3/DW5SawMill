@@ -2,6 +2,11 @@
 	"Releases": [
 		{
 			"Id": "DW5WhittierSawMill",
+			"Version": "1.1.2",
+			"DownloadUrl": "https://github.com/DWFiv3/DW5SawMill/releases/download/v1.1.2/DW5SawMill.1.1.2-UMM.zip"
+		},
+		{
+			"Id": "DW5WhittierSawMill",
 			"Version": "1.0.0",
 			"DownloadUrl": "https://github.com/DWFiv3/DW5SawMill/releases/download/v1.0.0/DW5SawMill.1.0.0-UMM.zip"
 		},
@@ -12,7 +17,3 @@
 		}
 	]
 }
-
-
-
-
