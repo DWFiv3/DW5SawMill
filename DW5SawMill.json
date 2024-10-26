@@ -1,6 +1,19 @@
 {
   "tracks": {
     "nodes": {
+      "Nxm9": {
+        "position": {
+          "x": 12137.2,
+          "y": 560.96,
+          "z": 5453.2
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 352.253723,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
       "NDW5SMSO_vfvd": {
         "position": {
           "x": 12633.6113,
@@ -757,33 +770,6 @@
         "speedLimit": 0,
         "groupId": "RearEntry"
       },
-      "SDW5SMINT_9vfw": {
-        "style": "Standard",
-        "trackClass": "Branch",
-        "startId": "N1be",
-        "endId": "NDW5SMINT_d76j",
-        "priority": 0,
-        "speedLimit": 0,
-        "groupId": ""
-      },
-      "SDW5SMINT_of25": {
-        "style": "Standard",
-        "trackClass": "Branch",
-        "startId": "NDW5SMINT_d76j",
-        "endId": "N05x",
-        "priority": 0,
-        "speedLimit": 0,
-        "groupId": ""
-      },
-      "SDW5SMINT_8j7p": {
-        "style": "Standard",
-        "trackClass": "Branch",
-        "startId": "NDW5SMINT_d76j",
-        "endId": "NDW5SMINT_d6yv",
-        "priority": 0,
-        "speedLimit": 0,
-        "groupId": "RearEntry"
-      },
       "SDW5SMINT_o2rx": {
         "style": "Standard",
         "trackClass": "Branch",
@@ -1112,7 +1098,7 @@
     }
   },
   "splineys": {
-    "Saw Mill Entry Bridge": {
+    "SMEntry01": {
       "points": [
         {
           "position": {
@@ -1139,12 +1125,12 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent",
       "handler": "StrangeCustoms.AutoTrestleBuilder",
       "groupId": "RearEntry"
     },
-    "Saw Mill R1 Bridge": {
+    "SMR1Bridge": {
       "points": [
         {
           "position": {
@@ -1171,11 +1157,11 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent",
       "handler": "StrangeCustoms.AutoTrestleBuilder"
     },
-    "Saw Mill R2 Bridge": {
+    "SMR2Bridge": {
       "points": [
         {
           "position": {
@@ -1202,11 +1188,11 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent",
       "handler": "StrangeCustoms.AutoTrestleBuilder"
     },
-    "Saw Mill R3 Bridge": {
+    "SMR3Bridge": {
       "points": [
         {
           "position": {
@@ -1233,18 +1219,18 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent",
       "handler": "StrangeCustoms.AutoTrestleBuilder"
     },
     "DW5_Saw_Mill_Telegraph_Poles": {
       "handler": "AlinasMapMod.TelegraphPoleMover",
       "polesToMove": [
-        567, // Pole to left of R3
-        587, // Pole near Interchange Milestone
-        585, // Pole next interchange Milestone
-        543, // Pole to Left of Milestone 1
-        545 // Pole to right of Milestone 1
+        567,
+        587, 
+        585, 
+        543, 
+        545 
       ],
       "poleMovement": [
         [-1, 2.2, -6],
