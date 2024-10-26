@@ -2,19 +2,20 @@
     "manifestVersion": 5,
     "id": "DWFiv3.WhittierSawMill",
     "name": "DWFiv3's Saw Mill",
-    "version": "1.2.2",
-    "updateUrl": "https://raw.githubusercontent.com/DWFiv3/DW5SawMill/main/update/update.json",
+    "version": "1.2.4",
+    "updateUrl": "https://raw.githubusercontent.com/DWFiv3/DW5SawMill/refs/heads/main/update/update.json",
     "requires": [
         {
-            "id": "Zamu.StrangeCustoms",
-            "notBefore": "1.8.0.0"
+            "id": "railloader",
+            "notBefore": "1.8.2.1"
         },
         {
-            "id": "AlinaNova21.AlinasMapMod",
-            "notBefore": "1.4.24193.2211"
+            "id": "Zamu.StrangeCustoms",
+            "notBefore": "1.7.24194.2259"
         }
     ],
     "conflictsWith": [
+        "DW5.WhittierSawMill",
         "Sneaky.WoodChipC2Extension",
         "Sneaky-JSALAAMI.SawMillExtension"
     ],

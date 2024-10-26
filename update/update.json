@@ -1,7 +1,11 @@
 {
     "DW5.WhittierSawMill": {
-        "version": "1.0.0",
+        "version": "1.2.4",
         "changelog": [
+            {
+                "version": "1.2.4",
+                "desc": "- Fixed for experimental, rebranded ID"
+            },
             {
                 "version": "1.1.2",
                 "desc": "- Fixed an issue with Telegraph Poles and Bridges not working, moved the Interchange link to an optional milestone, this gives flexibility to work with other mods"
